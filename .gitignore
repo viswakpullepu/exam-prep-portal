@@ -1,0 +1,4 @@
+*.png
+*.py
+tmp_check/
+__pycache__/
